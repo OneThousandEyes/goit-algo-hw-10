@@ -32,7 +32,7 @@
 
 
 **Файл виконання:**  
-[`task_02_integral.py`](./task_01_integral.py)
+[`task_02_integral.py`](./task_02_integral.py)
 
 ### Висновки щодо завдання 2:
 
